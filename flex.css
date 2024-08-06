@@ -9,6 +9,9 @@
     /* justify-content: space-between; */
     /* 'align items' aligns the item along the cross axix */
   
+
+    justify-content: center;
+    align-items: center;
 }
 
 .flex-child {
@@ -22,3 +25,4 @@
 .item-1 {
     flex-shrink: 5;
 }
+
